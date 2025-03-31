@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HarisAli-git" alt="HarisAli-git" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **React, Ruby, Rails, C++/C, Python, JAVA, JavaScript, Node.js**
 
